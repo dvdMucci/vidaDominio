@@ -1,4 +1,3 @@
-sverina.com.ar
-selectseguridad.com.ar
-lccjunin.com.ar
-da-wei.com.ar
+example.com
+yourdomain.com
+anotherdomain.net
